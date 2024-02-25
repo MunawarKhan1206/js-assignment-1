@@ -1,2 +1,2 @@
 https://munawarkhanjs1.netlify.app/
-all code is hdden by using comment 
+all code is hidden by using comment 
